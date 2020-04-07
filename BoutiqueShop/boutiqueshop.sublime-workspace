@@ -1,0 +1,565 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"card-img",
+				"card-img-overlay \tBootstrap 4 Class"
+			],
+			[
+				"mysqlc",
+				"mysql_connect"
+			],
+			[
+				"SE",
+				"_SESSION"
+			],
+			[
+				"script",
+				"script\tHTML - Script"
+			],
+			[
+				"ses",
+				"_SESSION"
+			],
+			[
+				"S",
+				"_SESSION"
+			],
+			[
+				"quer",
+				"query_run"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"mb",
+				"mb-4 \tBootstrap 4 Class"
+			],
+			[
+				"cont",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"path",
+				"pathModel"
+			],
+			[
+				"seconda",
+				"text-secondary \tBootstrap 4 Class"
+			],
+			[
+				"white",
+				"text-white \tBootstrap 4 Class"
+			],
+			[
+				"backgorun",
+				"background-color\tproperty"
+			],
+			[
+				"bgw",
+				"bg-white \tBootstrap 4 Class"
+			],
+			[
+				"al",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"h-",
+				"h-50 \tBootstrap 4 Class"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"ptlg",
+				"pt-lg-4 \tBootstrap 4 Class"
+			],
+			[
+				"pyl",
+				"py-lg-4 \tBootstrap 4 Class"
+			],
+			[
+				"mysm",
+				"my-sm-5 \tBootstrap 4 Class"
+			],
+			[
+				"pysm",
+				"py-sm-5 \tBootstrap 4 Class"
+			],
+			[
+				"my",
+				"my-4 \tBootstrap 4 Class"
+			],
+			[
+				"hid",
+				"hidden-lg-down \tBootstrap 4 Class"
+			],
+			[
+				"text",
+				"text-success \tBootstrap 4 Class"
+			],
+			[
+				"mr",
+				"mr-5 \tBootstrap 4 Class"
+			],
+			[
+				"ml",
+				"ml-5 \tBootstrap 4 Class"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"nav",
+				"nav-item \tBootstrap 4 Class"
+			],
+			[
+				"fon",
+				"font-weight-normal \tBootstrap 4 Class"
+			],
+			[
+				"navbra",
+				"navbar-brand \tBootstrap 4 Class"
+			],
+			[
+				"mtmd",
+				"mt-md-4 \tBootstrap 4 Class"
+			],
+			[
+				"mt",
+				"mt-lg-4 \tBootstrap 4 Class"
+			],
+			[
+				"ptsm",
+				"pt-sm-5 \tBootstrap 4 Class"
+			],
+			[
+				"pt",
+				"pt-5 \tBootstrap 4 Class"
+			],
+			[
+				"mt-",
+				"mt-auto \tBootstrap 4 Class"
+			],
+			[
+				"ptmd",
+				"pt-md-3 \tBootstrap 4 Class"
+			],
+			[
+				"aligns",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"center",
+				"align-content-md-center \tBootstrap 4 Class"
+			],
+			[
+				"img",
+				"img-fluid \tBootstrap 4 Class"
+			],
+			[
+				"pr",
+				"pr-1 \tBootstrap 4 Class"
+			],
+			[
+				"divi",
+				"embed-responsive-item \tBootstrap 4 Class"
+			],
+			[
+				"navbar-expand-",
+				"navbar-expand-md \tBootstrap 4 Class"
+			],
+			[
+				"border",
+				"table-bordered \tBootstrap 4 Class"
+			],
+			[
+				"textw",
+				"text-white \tBootstrap 4 Class"
+			],
+			[
+				"bg",
+				"bg-dark \tBootstrap 4 Class"
+			],
+			[
+				"cold",
+				"col-md-1 \tBootstrap 4 Class"
+			],
+			[
+				"b4ht",
+				"b4:template:html5\thtml5"
+			],
+			[
+				"re",
+				"req1\trequire_once …"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"t",
+				"toggle"
+			],
+			[
+				"ini",
+				"inline-block\tdisplay"
+			],
+			[
+				"bod",
+				"border-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"content",
+				"content\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"textr",
+				"text-transform\tproperty"
+			],
+			[
+				"backgo",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"bar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"material",
+				"Activate Materialize Theme"
+			],
+			[
+				"u",
+				"UI: Select Theme"
+			],
+			[
+				"instaal",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/BoutiqueShop/boutiqueshop.sublime-project",
+		"/C/xampp/htdocs/BoutiqueShop/admin/views/modules/adduser.php",
+		"/C/xampp/htdocs/BoutiqueShop/Config.php",
+		"/C/xampp/htdocs/BoutiqueShop/system/Database.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/modules/adduser.php",
+		"/C/xampp/htdocs/BoutiqueShop/models/Auth.php",
+		"/C/xampp/htdocs/BoutiqueShop/system/load.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/register.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/login.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/pages/shop.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/models/Auth.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/header.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/pages/home.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/footer.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/topbar.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/views/pages/navbar.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/views/pages/scripts.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/models.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/adduser.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/views/pages/header.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/modules/signin.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/pages/register.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/pages/login.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/index.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/pages/underdev.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/pages/forgot-password.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/login.html",
+		"/C/xampp/htdocs/BoutiqueShop/admin/code.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/pages/footer.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/pages/navbar.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/register.html",
+		"/C/xampp/htdocs/BoutiqueShop/admin/pages/header.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/pages/register.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/pages/scripts.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/.browserslistrc",
+		"/C/xampp/htdocs/BoutiqueShop/models/Menu.php",
+		"/C/xampp/htdocs/BoutiqueShop/admin/nghia.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/modules/main.js",
+		"/C/xampp/htdocs/BoutiqueShop/public/css/bootstrap.min.css.map",
+		"/C/xampp/htdocs/BoutiqueShop/public/css/bootstrap.min.css",
+		"/C/xampp/htdocs/BoutiqueShop/views/modules/slider.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/modules/category.php",
+		"/C/xampp/htdocs/BoutiqueShop/views/modules/mainmenu.php",
+		"/C/xampp/htdocs/Eshop/config.php",
+		"/C/xampp/htdocs/BoutiqueShop/system/core.php",
+		"/C/xampp/htdocs/Eshop/system/Database.php",
+		"/C/Users/Admin/Desktop/BoutiqueShop/Config.php",
+		"/C/Users/Admin/Desktop/BoutiqueShop/views/pages/home.php",
+		"/C/Users/Admin/Desktop/BoutiqueShop/system/load.php",
+		"/C/Users/Admin/Desktop/BoutiqueShop/index.php",
+		"/C/Users/Admin/Desktop/BoutiqueShop/system/core.php",
+		"/C/Users/Admin/Desktop/BoutiqueShop/system/Database.php",
+		"/E/study/main.js",
+		"/E/study/style.css",
+		"/E/study/study.html",
+		"/E/Blog/main.js",
+		"/E/Blog/style.css",
+		"/E/Blog/about.css",
+		"/E/Blog/about.html",
+		"/E/Blog/index.html",
+		"/C/Users/Admin/Desktop/1701040156_2C17_tut5/Arrays/src/t04_5/design/Arrays.java",
+		"/C/Users/Admin/Desktop/1701040115_2C17_week4_2/Tutoral4/src/Array/Math.java",
+		"/C/Users/Admin/Desktop/1701040115_2C17_week4_2/Tutoral4/src/Array/Array.java",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "boutiqueshop.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
